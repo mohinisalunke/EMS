@@ -1,7 +1,7 @@
 
 # if statement:
 
-number = 11
+number = 12
 if number:
     print("Got a true expression value",)
     print(number)
